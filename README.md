@@ -1,4 +1,4 @@
-# vpn-reset
+# vpn-reset-script
 
 Description:
 
