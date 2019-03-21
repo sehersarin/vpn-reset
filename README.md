@@ -6,7 +6,7 @@ The purpose of this code is to auto-reset the US VPN. It is a python script usin
 
 Steps to run: 
 
-1. Set up Cron Job to run vpn_reset.py at a specified interval
+1. Set up Cron Job to run vpn_reset.py at a specified interval or multiple times throughout the day.
 2. Set Login & password through the use of environment variables <VPN_USERNAME> & <VPN_PASSWORD>. The environment variables must be set in the System environment as well as the cron tab itself.
 
 Notes:
